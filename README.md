@@ -1,4 +1,4 @@
-# ⚛️ Debug Inspector (v5.0)
+# ⚛️ Debug Inspector (v1.0)
 
 A zero-config, "Spectroscopy" utility for React developers and **Vibe Coders**. It bridges the gap between the visual UI and the raw source code.
 
